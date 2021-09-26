@@ -1,6 +1,6 @@
 .row-header{
     margin: 0px auto;
-    padding: 0px;
+    padding: 10px;
 }
 
 .row-content {
@@ -8,6 +8,16 @@
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height: 400px;
+}
+
+.row-content-about-history {
+    padding: 50px 20px 50px 20px;
+    min-height: 400px;
+}
+
+.row-content-about-cl {
+    border-top: 1px ridge;
+    padding: 50px 20px 50px 20px;
 }
 
 .footer{
